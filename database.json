@@ -1,0 +1,12 @@
+{
+  "dev": {
+    "ENV": "SHORTEN_URL_DEV_DATABASE_SYSTEM"
+  },
+  "test":{
+    "ENV": "SHORTEN_URL_TEST_DATABASE_SYSTEM"
+  },
+  "prod":{
+      "ENV": "SHORTEN_URL_PROD_DATABASE_SYSTEM"
+  },
+  "sql-file": true
+}
